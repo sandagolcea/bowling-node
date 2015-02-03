@@ -14,6 +14,12 @@
   "author": "Sanda",
   "license": "ISC",
   "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-watch": "^0.6.1",
     "jasmine-node": "^1.14.5"
+  },
+  "dependencies": {
+    "grunt-jasmine-node": "^0.2.1"
   }
 }

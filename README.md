@@ -5,7 +5,8 @@ This is a remake of the Game Score Card, made in node.
 clone this project:  
 `git clone git@github.com:sandagolcea/bowling-node.git`   
 `npm install`  
-`npm test`  
+`npm test`  -- to test with jasmine
+`grunt` -- to test with Gruntfile.js
 This is a TDD approach and only runs basic tests atm.  
 
 For a visual javascript of the bowling scorecard, go to : https://github.com/sandagolcea/bowling
