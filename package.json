@@ -1,0 +1,19 @@
+{
+  "name": "bowling-node",
+  "version": "1.0.0",
+  "description": "A bowling scorecard in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/jasmine-node/bin/jasmine-node spec/ --verbose"
+  },
+  "keywords": [
+    "node",
+    "bowling",
+    "javascript"
+  ],
+  "author": "Sanda",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
